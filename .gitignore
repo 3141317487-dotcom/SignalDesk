@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+release/
+settings.json
+error.log
+*.zip
+examples/case_preview.png
